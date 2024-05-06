@@ -11,8 +11,11 @@
   <a href="https://www.youtube.com/channel/UCStMxuTC0o248W92GHnVM6Q" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/?authuser=bharathiraja798@gmail.com" target="_blank">
+  <a href="mailto:bharathiraja798@gmail.com?body=Hi%2C%0A" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://bharathiraja-portfolio.onrender.com/" target="_blank">
+    <img width="30" height="25" src="https://img.icons8.com/color/48/portfolio.png" alt="portfolio"/>
   </a>
 </div>
 
