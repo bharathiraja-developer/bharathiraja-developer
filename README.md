@@ -14,9 +14,6 @@
   <a href="mailto:bharathiraja798@gmail.com?body=Hi%2C%0A" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://bharathiraja-portfolio.onrender.com/" target="_blank">
-    <img width="30" height="25" src="https://img.icons8.com/color/48/portfolio.png" alt="portfolio"/>
-  </a>
 </div>
 
 ###
@@ -67,6 +64,12 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="220" src="https://www.dropbox.com/scl/fi/hktg3h4eb0c4r7wefqk3z/output-onlinegiftools.gif?rlkey=woev0s3rk51j5rtonbfte43sw&st=66954t6r&raw=1"  />
 </div>
 
 ###
